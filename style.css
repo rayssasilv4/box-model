@@ -1,0 +1,38 @@
+
+/* por algum motivo a imagem está aparecendo duas vezes no site. O que seria? */
+
+div {
+    height: 400px;
+    width: 400px;
+
+    border-width: 20px;
+    border-style: solid;
+    border-color: blueviolet;
+
+    background-image: url(https://899028l.ha.azioncdn.net/img/2022/05/blog/30484/flor-de-lotus-prego-e-martelo-artigo.jpg);
+    text-align: center;
+    box-shadow: inset 6px 6px 13px 3px red;
+    background-size: cover;
+
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+
+    outline-width: 16px;
+    outline-style: double;
+    outline-color: rgb(174, 17, 114);
+
+    margin: auto;
+    margin-top: 100px;
+
+}
+
+p {
+    padding-top: 10px;
+    font-style: italic;
+    font-size: 50px;
+    color: yellow;
+    font-weight: bold;
+
+}
